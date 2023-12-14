@@ -1,0 +1,12 @@
+.footer {
+  height: 200px;
+  background-color: black;
+}
+
+.navbarmenu nav {
+  height: 200px;
+  font-size: 70px;
+}
+.navbarmenu nav a {
+  margin-left: 60px;
+}/*# sourceMappingURL=App.css.map */
